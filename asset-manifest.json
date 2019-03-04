@@ -1,6 +1,13 @@
 {
-  "main.css": "static/css/main.9fcc07f0.css",
-  "main.css.map": "static/css/main.9fcc07f0.css.map",
-  "main.js": "static/js/main.a98b25dd.js",
-  "main.js.map": "static/js/main.a98b25dd.js.map"
+  "main.css": "/react-editext/static/css/main.e586a335.chunk.css",
+  "main.js": "/react-editext/static/js/main.00a27ff8.chunk.js",
+  "main.js.map": "/react-editext/static/js/main.00a27ff8.chunk.js.map",
+  "runtime~main.js": "/react-editext/static/js/runtime~main.f1a7fdda.js",
+  "runtime~main.js.map": "/react-editext/static/js/runtime~main.f1a7fdda.js.map",
+  "static/js/2.86bce89e.chunk.js": "/react-editext/static/js/2.86bce89e.chunk.js",
+  "static/js/2.86bce89e.chunk.js.map": "/react-editext/static/js/2.86bce89e.chunk.js.map",
+  "index.html": "/react-editext/index.html",
+  "precache-manifest.20436ca5b838377b8f2acb4d8ff595e1.js": "/react-editext/precache-manifest.20436ca5b838377b8f2acb4d8ff595e1.js",
+  "service-worker.js": "/react-editext/service-worker.js",
+  "static/css/main.e586a335.chunk.css.map": "/react-editext/static/css/main.e586a335.chunk.css.map"
 }
