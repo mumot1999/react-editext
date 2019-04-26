@@ -1,13 +1,15 @@
 {
-  "main.css": "/react-editext/static/css/main.e586a335.chunk.css",
-  "main.js": "/react-editext/static/js/main.7b4614ae.chunk.js",
-  "main.js.map": "/react-editext/static/js/main.7b4614ae.chunk.js.map",
-  "runtime~main.js": "/react-editext/static/js/runtime~main.0c19ad3f.js",
-  "runtime~main.js.map": "/react-editext/static/js/runtime~main.0c19ad3f.js.map",
-  "static/js/2.2306e95a.chunk.js": "/react-editext/static/js/2.2306e95a.chunk.js",
-  "static/js/2.2306e95a.chunk.js.map": "/react-editext/static/js/2.2306e95a.chunk.js.map",
-  "index.html": "/react-editext/index.html",
-  "precache-manifest.ab879f70e5825e9b95962c663759a5d3.js": "/react-editext/precache-manifest.ab879f70e5825e9b95962c663759a5d3.js",
-  "service-worker.js": "/react-editext/service-worker.js",
-  "static/css/main.e586a335.chunk.css.map": "/react-editext/static/css/main.e586a335.chunk.css.map"
+  "files": {
+    "main.css": "/react-editext/static/css/main.7fca7eb2.chunk.css",
+    "main.js": "/react-editext/static/js/main.b0a6a913.chunk.js",
+    "main.js.map": "/react-editext/static/js/main.b0a6a913.chunk.js.map",
+    "runtime~main.js": "/react-editext/static/js/runtime~main.0c19ad3f.js",
+    "runtime~main.js.map": "/react-editext/static/js/runtime~main.0c19ad3f.js.map",
+    "static/js/2.e4f16797.chunk.js": "/react-editext/static/js/2.e4f16797.chunk.js",
+    "static/js/2.e4f16797.chunk.js.map": "/react-editext/static/js/2.e4f16797.chunk.js.map",
+    "index.html": "/react-editext/index.html",
+    "precache-manifest.332621ec87096646d6d4a4c8a7a7a8b2.js": "/react-editext/precache-manifest.332621ec87096646d6d4a4c8a7a7a8b2.js",
+    "service-worker.js": "/react-editext/service-worker.js",
+    "static/css/main.7fca7eb2.chunk.css.map": "/react-editext/static/css/main.7fca7eb2.chunk.css.map"
+  }
 }
