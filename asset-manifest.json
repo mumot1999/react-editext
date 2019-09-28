@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-editext/static/css/main.c61aad12.chunk.css",
-    "main.js": "/react-editext/static/js/main.91f91c37.chunk.js",
-    "main.js.map": "/react-editext/static/js/main.91f91c37.chunk.js.map",
-    "runtime~main.js": "/react-editext/static/js/runtime~main.880ad268.js",
-    "runtime~main.js.map": "/react-editext/static/js/runtime~main.880ad268.js.map",
-    "static/js/2.bf3eb15d.chunk.js": "/react-editext/static/js/2.bf3eb15d.chunk.js",
-    "static/js/2.bf3eb15d.chunk.js.map": "/react-editext/static/js/2.bf3eb15d.chunk.js.map",
+    "main.js": "/react-editext/static/js/main.b2f4d5a6.chunk.js",
+    "main.js.map": "/react-editext/static/js/main.b2f4d5a6.chunk.js.map",
+    "runtime-main.js": "/react-editext/static/js/runtime-main.880ad268.js",
+    "runtime-main.js.map": "/react-editext/static/js/runtime-main.880ad268.js.map",
+    "static/js/2.bc1fac32.chunk.js": "/react-editext/static/js/2.bc1fac32.chunk.js",
+    "static/js/2.bc1fac32.chunk.js.map": "/react-editext/static/js/2.bc1fac32.chunk.js.map",
     "index.html": "/react-editext/index.html",
-    "precache-manifest.39f4a85062ddf4371fcb9d8f88d56cf9.js": "/react-editext/precache-manifest.39f4a85062ddf4371fcb9d8f88d56cf9.js",
+    "precache-manifest.1e746449c3f751f7eac52696aafac544.js": "/react-editext/precache-manifest.1e746449c3f751f7eac52696aafac544.js",
     "service-worker.js": "/react-editext/service-worker.js",
     "static/css/main.c61aad12.chunk.css.map": "/react-editext/static/css/main.c61aad12.chunk.css.map"
   }
