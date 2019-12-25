@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-editext/static/css/main.c61aad12.chunk.css",
-    "main.js": "/react-editext/static/js/main.082c4b0b.chunk.js",
-    "main.js.map": "/react-editext/static/js/main.082c4b0b.chunk.js.map",
+    "main.js": "/react-editext/static/js/main.fab82533.chunk.js",
+    "main.js.map": "/react-editext/static/js/main.fab82533.chunk.js.map",
     "runtime-main.js": "/react-editext/static/js/runtime-main.0446e218.js",
     "runtime-main.js.map": "/react-editext/static/js/runtime-main.0446e218.js.map",
     "static/js/2.cda233bd.chunk.js": "/react-editext/static/js/2.cda233bd.chunk.js",
     "static/js/2.cda233bd.chunk.js.map": "/react-editext/static/js/2.cda233bd.chunk.js.map",
     "index.html": "/react-editext/index.html",
-    "precache-manifest.bee335810ee0b06c9db3954087eb8294.js": "/react-editext/precache-manifest.bee335810ee0b06c9db3954087eb8294.js",
+    "precache-manifest.a7b249fad582b4c5c2de4c62386d5f46.js": "/react-editext/precache-manifest.a7b249fad582b4c5c2de4c62386d5f46.js",
     "service-worker.js": "/react-editext/service-worker.js",
     "static/css/main.c61aad12.chunk.css.map": "/react-editext/static/css/main.c61aad12.chunk.css.map",
     "static/js/2.cda233bd.chunk.js.LICENSE": "/react-editext/static/js/2.cda233bd.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0446e218.js",
     "static/js/2.cda233bd.chunk.js",
     "static/css/main.c61aad12.chunk.css",
-    "static/js/main.082c4b0b.chunk.js"
+    "static/js/main.fab82533.chunk.js"
   ]
 }
