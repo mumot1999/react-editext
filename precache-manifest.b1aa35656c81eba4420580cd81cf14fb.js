@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ed03a7bdfc4f0b8515276cacaa1f5e2",
+    "revision": "c1d260e1f5eac9a5296563d9c7761c05",
     "url": "/react-editext/index.html"
   },
   {
-    "revision": "60f66d5545be1db8bf3c",
+    "revision": "9e172fbff9cef4752ac6",
     "url": "/react-editext/static/css/main.c61aad12.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-editext/static/js/2.cda233bd.chunk.js.LICENSE"
   },
   {
-    "revision": "60f66d5545be1db8bf3c",
-    "url": "/react-editext/static/js/main.5d34e935.chunk.js"
+    "revision": "9e172fbff9cef4752ac6",
+    "url": "/react-editext/static/js/main.9e9dfd79.chunk.js"
   },
   {
     "revision": "49b42893cadc50cc8958",
