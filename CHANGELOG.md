@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.16.1](https://github.com/alioguzhan/react-editext/compare/v3.15.1...v3.16.1) (2020-07-15)
+
+
+### Features
+
+* allow passing `tabIndex` to both `view` and `input` elements ([c2d7eb2](https://github.com/alioguzhan/react-editext/commit/c2d7eb27dee25d9b6bfc06d9254107db14ddfe7b)), closes [#86](https://github.com/alioguzhan/react-editext/issues/86)
+* implement `startEditingOnFocus` and `startEditingOnEnter` props ([3297224](https://github.com/alioguzhan/react-editext/commit/3297224ba4db8bc2d43b3e25b6c78a9cb727f1cb)), closes [#86](https://github.com/alioguzhan/react-editext/issues/86)
+
+
+### Bug Fixes
+
+* **security:** upgrade development deps to fix a vulnerability ([41345ca](https://github.com/alioguzhan/react-editext/commit/41345ca4b4ac9915ae982b6cfff9a769ca00cead))
+
 ## [3.16.0](https://github.com/alioguzhan/react-editext/compare/v3.15.1...v3.16.0) (2020-06-01)
 
 
